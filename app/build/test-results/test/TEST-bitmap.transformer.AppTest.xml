@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bitmap.transformer.AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-01T20:13:38" hostname="DESKTOP-E5H9M2J" time="0.523">
+  <properties/>
+  <testcase name="Flip()" classname="bitmap.transformer.AppTest" time="0.262"/>
+  <testcase name="black_white()" classname="bitmap.transformer.AppTest" time="0.145"/>
+  <testcase name="Darken()" classname="bitmap.transformer.AppTest" time="0.112"/>
+  <system-out><![CDATA[110
+110
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
